@@ -8,13 +8,13 @@
 <p><strong>Bánh Mì Que</strong> <span>10,000 VNĐ</span></p>  
 <img src="banhmique.png" alt="Bánh mì que">
 <p><strong>Khoai Tây Chiên</strong> <span>15,000 VNĐ</span></p>  
-<img src="img\khoaitaychien.png" alt="Khoai Tây Chiên">		             
+<img src="khoaitaychien.png" alt="Khoai Tây Chiên">		             
 <p><strong>Xúc Xích Nướng</strong> <span>20,000 VNĐ</span></p>  
-<img src="img\xucxichnuong.png" alt="Xúc XÍch Nướng">		              
+<img src="xucxichnuong.png" alt="Xúc XÍch Nướng">		              
 <p><strong>Gà Rán Giòn Tan</strong> <span>25,000 VNĐ</span></p>  
-<img src="img\gagangion.png" alt="Gà Gán Giòn Tan">		             
+<img src="gagangion.png" alt="Gà Gán Giòn Tan">		             
 <p><strong>Trà Sữa Trân Châu</strong> <span>18,000 VNĐ</span></p>
-<img src="img\trasuatranchau.png" alt="Trà sữa trân châu">	
+<img src="trasuatranchau.png" alt="Trà sữa trân châu">	
 <h2>Thông tin món ăn</h2> <form>
 
 <label for="monan">Tên món ăn</label> <input type="text" id="monan">
