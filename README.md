@@ -15,7 +15,15 @@
 <img src="img\gagangion.png" alt="Gà Gán Giòn Tan">		             
 <p><strong>Trà Sữa Trân Châu</strong> <span>18,000 VNĐ</span></p>
 <img src="img\trasuatranchau.png" alt="Trà sữa trân châu">	
-	             
+<h2>Thông tin món ăn</h2> <form>
+
+<label for="monan">Tên món ăn</label> <input type="text" id="monan">
+
+<label for="dongia">Đơn giá</label>
+
+<input type="text" id="dongia"> <label for="soluong">Số lượng</label>
+
+<input type="text" id="soluong"> </form>	             
 <table border="1">
 <tr><th rowspan="2"> Lượt tích điểm </th> <th colspan="3"> Điểm tích</th></tr>
 <tr><td>Lượt 1</td> <td>Lượt 2</td> <td>Lượt 3</td></tr>
