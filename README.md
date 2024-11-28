@@ -6,7 +6,7 @@
 <body>
 <h2>TIỆM ĐỒ ĂN VẶT - NHÓM 2 - LỚP 12 LÝ</h2>
 <p><strong>Bánh Mì Que</strong> <span>10,000 VNĐ</span></p>  
-<img src="img\banhmique.png" alt="Bánh mì que">
+<img src="banhmique.png" alt="Bánh mì que">
 <p><strong>Khoai Tây Chiên</strong> <span>15,000 VNĐ</span></p>  
 <img src="img\khoaitaychien.png" alt="Khoai Tây Chiên">		             
 <p><strong>Xúc Xích Nướng</strong> <span>20,000 VNĐ</span></p>  
